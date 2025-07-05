@@ -91,7 +91,10 @@ Displays command usage and tag options.
 ## 📂 Screenshots / PPT
 
 Check out the full project explanation in the presentation:
-📄 [`MP3_Tag_Reader_Presentation.pptx`](./MP3_Tag_Reader_Presentation.pptx)
+📄## 📂 Project Presentation
+
+📄(https://github.com/Bharath-kumar-Gundralla/mp3-tag-reader/blob/main/MP3_Tag_Reader.pptx)
+
 
 ---
 
